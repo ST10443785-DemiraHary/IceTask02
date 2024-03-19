@@ -20,5 +20,11 @@ public class IceTask02
         
     }
     
+    private void HiWorld()
+    {
+        System.out.println("Hello World");
+    }
+    
+    
 }
 //...........................................................................//
